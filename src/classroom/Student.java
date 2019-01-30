@@ -5,7 +5,7 @@ package classroom;
  * @author Brianna McBurney 
  * Student Number: 991517337
  * Date: 
- * make some changes
+ * make some changes, make some more changes
  */
 public class Student {
     private String name;
