@@ -6,6 +6,7 @@ package classroom;
  * Student Number: 991517337
  * Date: 
  * make some changes
+ * commit number 2: represents creating a branch
  */
 public class Student {
     private String name;
